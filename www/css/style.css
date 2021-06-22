@@ -1,0 +1,74 @@
+/* Empty. Add your own CSS if you like */
+.cuatom-burgundy{
+	background-color: #631d3d;
+	color: #FFFFFF;
+}
+
+.custom-blue{
+	background-color: #102249;
+	color: #FFFFFF;
+}
+
+
+.custom-black
+{
+	background-color: #100f13;
+	color: #FFFFFF;
+}
+
+.custom-greyblue
+{
+	background-color: #901515;
+	color: #FFFFFF;
+}
+
+#heightbtn
+{
+	height:140px;
+}
+
+#backspace{
+	height: 50px;
+	width:50px;
+	position: relative;
+	display: block;
+	margin: auto; 
+}
+
+#custom-font
+{
+	font-family: sans-serif, serif;
+	font-size: 40px;
+	padding: 15px  15px 0 0;
+	font-weight: bold;
+}
+
+
+#custom-line:hover
+{
+	opacity: 50%;
+}
+
+#history{
+   color:#34d8fb;
+	font-size: 9px;
+	text-align:center;
+}
+
+
+
+#para
+{
+	font-size:30px;
+	color:#234769;
+	font-family: sans-serif;
+	margin: 10px 0 0 10px;
+}
+
+
+
+.cal_container
+{
+	height:100%;
+	position: fixed;
+}
